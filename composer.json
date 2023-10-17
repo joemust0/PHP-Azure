@@ -1,0 +1,11 @@
+{
+    "name": "admin/php_azure",
+    "type": "projetc",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Admin\\PhpAzure\\": "src/"
+        }
+    },
+    "require": {}
+}
