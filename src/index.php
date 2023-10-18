@@ -8,7 +8,6 @@
 <body>
     <?php
     include_once("main.php");
-    echo "Hello World!!!!!";
     ?>
 </body>
 </html>
